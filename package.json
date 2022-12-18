@@ -1,0 +1,22 @@
+{
+  "name": "nano-state",
+  "version": "0.1.0",
+  "description": "teeny tiny state management",
+  "main": "nano.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daz4126/nano-state/"
+  },
+  "scripts": {
+    "test": "No tests yet"
+  },
+  "keywords": [
+    "nano",
+    "state",
+    "teeny",
+    "tiny"
+	],
+  "author": "DAZ <daz4126@gmail.com>",
+  "license": "Unlicense"
+}
